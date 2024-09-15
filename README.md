@@ -15,4 +15,4 @@ The project will involve the following tasks:
 
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
 
-The process for this project can be found in the ["Unsupervised Learning - Project"](Unsupervised Learning - Project.ipynb) notebook.
+The process for this project can be found in the ["Unsupervised Learning - Project"]('Unsupervised Learning - Project.ipynb') notebook.
